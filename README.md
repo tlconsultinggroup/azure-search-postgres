@@ -201,3 +201,4 @@ Please post in the issue tracker with any questions or issues.
 
 * [RAG chat with Azure AI Search + Python](https://github.com/Azure-Samples/azure-search-openai-demo/)
 * [Develop Python apps that use Azure AI services](https://learn.microsoft.com/azure/developer/python/azure-ai-for-python-developers)
+# azure-search-postgres
